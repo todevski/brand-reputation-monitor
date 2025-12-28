@@ -6,4 +6,4 @@ matplotlib
 wordcloud
 transformers
 numpy
-torch==2.2.2
+torch
