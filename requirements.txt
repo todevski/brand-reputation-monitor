@@ -5,5 +5,5 @@ altair
 matplotlib
 wordcloud
 transformers
-torch
 numpy
+torch==2.2.2
